@@ -1,0 +1,15 @@
+__pycache__
+.DS_Store
+.idea/
+env/
+*.pyc
+*.swo
+*.swp
+*.swn
+
+log/
+*.log
+.out
+.xlsx
+.xls
+
